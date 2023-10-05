@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔧 Working with
+### 🔧 Working with
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-🌱 Learning
+### 🌱 Learning
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-⭐ Certifications
+### ⭐ Certifications
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - Cloud Practitioner
@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 - Databricks Associate Developer for Apache Spark 3.0
 
-📄 Articles
+### 📄 Articles
 
 [Lakehouse with Managed Apache Flink and Hudi Part I](https://www.bluetab.net/en/lakehouse-streaming-on-aws-with-apache-flink-and-hudi-part-1/)
 [Lakehouse with Managed Apache Flink and Hudi Part II](https://www.bluetab.net/en/lakehouse-streaming-en-aws-con-apache-flink-y-hudi-parte-2/)
+
+### 👥 Contact
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianjimenezhernandez)

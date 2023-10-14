@@ -26,14 +26,15 @@ Here are some ideas to get you started:
 ### ⭐ Certifications
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- Cloud Practitioner
-- Solutions Architect Associate
+![Solutions Architect Associate](https://www.credly.com/badges/83e15e9e-f025-4a05-8d47-2cd5ac812174/public_url)
+![Cloud Practitioner]()
+
 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-- Professional Machine Learning Engineer
+![Professional Machine Learning Engineer](https://www.credential.net/640c55ed-0e87-4153-8337-5b802ae7abd3)
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-- Databricks Associate Developer for Apache Spark 3.0
+![Databricks Associate Developer for Apache Spark 3.0](https://credentials.databricks.com/edf44391-a168-416e-b161-5c990657581e#gs.6y68fk)
 
 ### 📄 Articles
 
